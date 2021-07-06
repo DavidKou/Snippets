@@ -1,0 +1,11 @@
+ShortCode,FullStringCode,Description
+rni,react-native init 
+rnra,react-native run-android
+rnri,react-native run-ios
+rnl,react-native link 
+rncb,watchman watch-del-all,Clear and create a new bundle
+rnba,cd android && ./gradlew assembleDebug
+rnd,react-native doctor
+rnli,react-native log-ios
+rnla,react-native log-android
+rns,react-native start,Starts the server that communicates with connected devices
