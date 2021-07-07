@@ -1,7 +1,7 @@
 
 ## Snippets for Git version control
 
-[Json](https://davidkou.github.io/Snippets/git.json) | [Csv](https://davidkou.github.io/Snippets/git.csv)
+[Json](https://raw.githubusercontent.com/DavidKou/Snippets/main/git/git.json) | [Csv](https://raw.githubusercontent.com/DavidKou/Snippets/main/git/git.csv)
 
 ## Details
 
