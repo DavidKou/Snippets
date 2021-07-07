@@ -1,6 +1,10 @@
+
+## Snippets for Git version control
+
 [Json](https://davidkou.github.io/Snippets/git.json) | [Csv](https://davidkou.github.io/Snippets/git.csv)
 
 ## Details
+
 |ShortCode|FullStringCode                                                          |Description|
 |---------|------------------------------------------------------------------------|-----------|
 |gb       |git branch\n                                                            |           |
