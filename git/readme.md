@@ -1,3 +1,6 @@
+[Json](https://davidkou.github.io/Snippets/git.json) | [Csv](https://davidkou.github.io/Snippets/git.csv)
+
+## Details
 |ShortCode|FullStringCode                                                          |Description|
 |---------|------------------------------------------------------------------------|-----------|
 |gb       |git branch\n                                                            |           |
@@ -21,6 +24,3 @@
 |grs      |git reset --soft                                                        |           |
 |grb      |git checkout develop && git pull && git checkout - && git rebase develop|           |
 
-Download: 
-- [Json](https://davidkou.github.io/Snippets/git.json) 
-- [Csv](https://davidkou.github.io/Snippets/git.csv)
