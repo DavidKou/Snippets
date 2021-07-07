@@ -5,5 +5,6 @@ Public snippets shared with everyone. Use this to boost your productivity for Gi
   <details> 
     <summary markdown="span">View Animation here </summary>
   
-    ![](git/git.gif)
+    ![](https://github.com/DavidKou/Snippets/blob/main/git/git.gif?raw=true)
+  
     </details>
