@@ -1,0 +1,84 @@
+{
+  "Snippets": [
+    {
+      "ShortCode": "gb",
+      "FullStringCode": "git branch\\n"
+    },
+    {
+      "ShortCode": "gc",
+      "FullStringCode": "git checkout"
+    },
+    {
+      "ShortCode": "gl",
+      "FullStringCode": "git log --oneline\\n"
+    },
+    {
+      "ShortCode": "gd",
+      "FullStringCode": "git diff"
+    },
+    {
+      "ShortCode": "gm",
+      "FullStringCode": "git commit -m \u0022\u0022"
+    },
+    {
+      "ShortCode": "gs",
+      "FullStringCode": "git status\\n"
+    },
+    {
+      "ShortCode": "gaa",
+      "FullStringCode": "git add .\\n"
+    },
+    {
+      "ShortCode": "gam",
+      "FullStringCode": "git commit -am \u0022\u0022"
+    },
+    {
+      "ShortCode": "g2-",
+      "FullStringCode": "git checkout -"
+    },
+    {
+      "ShortCode": "g2d",
+      "FullStringCode": "git checkout develop"
+    },
+    {
+      "ShortCode": "gpl",
+      "FullStringCode": "git pull\\n"
+    },
+    {
+      "ShortCode": "gps",
+      "FullStringCode": "git push\\n"
+    },
+    {
+      "ShortCode": "gpd",
+      "FullStringCode": "git push origin develop"
+    },
+    {
+      "ShortCode": "gpm",
+      "FullStringCode": "git push origin master"
+    },
+    {
+      "ShortCode": "gra",
+      "FullStringCode": "git reabse --abort"
+    },
+    {
+      "ShortCode": "grc",
+      "FullStringCode": "git reabse --continue"
+    },
+    {
+      "ShortCode": "grd",
+      "FullStringCode": "git rebase develop"
+    },
+    {
+      "ShortCode": "grh",
+      "FullStringCode": "git reset --hard"
+    },
+    {
+      "ShortCode": "grs",
+      "FullStringCode": "git reset --soft"
+    },
+    {
+      "ShortCode": "grb",
+      "FullStringCode": "git checkout develop \u0026\u0026 git pull \u0026\u0026 git checkout - \u0026\u0026 git rebase develop"
+    }
+  ]
+}
